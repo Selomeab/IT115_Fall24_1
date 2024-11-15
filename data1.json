@@ -1,0 +1,15 @@
+{
+    "name": "OJ Simpson",
+    "age": 11,
+    "city": "New York, NY",
+    "interests": [
+        "Traveling",
+        "Football",
+        "Golf",
+        "Running",
+        "Videogames",
+        "History",
+        "Selomea4"
+    ],
+    "is_student": false
+}

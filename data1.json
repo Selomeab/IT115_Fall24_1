@@ -1,15 +1,15 @@
 {
-    "name": "OJ Simpson",
-    "age": 11,
-    "city": "New York, NY",
+    "name": "Selomea Beyene",
+    "age": 22,
+    "city": "Seattle,WA",
     "interests": [
         "Traveling",
-        "Football",
-        "Golf",
-        "Running",
-        "Videogames",
-        "History",
-        "Selomea4"
+        "Cooking",
+        "Swimming",
+        "Hiking",
+        "Documenteries",
+        "Writing",
+        "Theology"
     ],
-    "is_student": false
+    "is_student": true
 }

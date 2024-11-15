@@ -4,11 +4,11 @@ import json
 #
 data1 = {
 
-    'name':'OJ Simpson',
-    'age':30,
-    'city':'New York, NY',
-    'interests': ['Traveling','Football','Golf','Running','Videogames','History'],
-    'is_student': False
+    'name':'Selomea Beyene',
+    'age':22,
+    'city':'Seattle,WA',
+    'interests': ['Traveling','Cooking','Swimming','Hiking','Documenteries','Writing'],
+    'is_student': True
 
 }
 
@@ -36,9 +36,9 @@ print(loaded_data)
 
 
 
-loaded_data['age'] = 11
+loaded_data['age'] = 22
 
-loaded_data['interests'].append('Selomea4')
+loaded_data['interests'].append('Theology')
 
 with open('data1.json','w') as json_file:
 
